@@ -404,23 +404,6 @@ console.log(translations);
 // }
 ```
 
-## 🐛 Sorun Giderme
-
-### Frontend Sorunları
-
-**Gemini API Hatası:**
-- `GEMINI_API_KEY` ortam değişkeninin doğru ayarlandığından emin olun
-- API anahtarının geçerli olduğunu kontrol edin
-
-**CORS Hatası:**
-- İstek yapılan origin'in whitelist'te olduğundan emin olun
-- OPTIONS isteğinin başarılı olduğunu kontrol edin
-
-**Timeout Hatası:**
-- İnternet bağlantınızı kontrol edin
-- API'lerin erişilebilir olduğundan emin olun
-- Daha kısa metinlerle deneyin
-
 ## 📚 Kaynaklar
 
 ### Frontend
@@ -433,6 +416,16 @@ console.log(translations);
 - [Mongoose Dokümantasyonu](https://mongoosejs.com/docs/)
 - [MongoDB Dokümantasyonu](https://www.mongodb.com/docs/)
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+
+## Video
+
+<a href="https://youtu.be/IxLOeyGPtEg" target="_blank">
+  <img 
+    src="https://github.com/user-attachments/assets/15ea6151-b36e-4ba0-bf76-8f3a58d054f5" 
+    width="1000"
+  />
+</a>
+
 
 ## 📄 Lisans
 
